@@ -34,7 +34,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ### 3️⃣ Run the Chatbot
 ```sh
-streamlit run chatbot.py
+streamlit run app.py
 ```
 
 ## 📝 How It Works
